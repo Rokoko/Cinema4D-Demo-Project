@@ -18,3 +18,4 @@ This Demo project let's you star up a scene with a character already set up for 
 ---
 
 For a guide on how to use the Demo Project go to the wiki page Rokoko Studio Cinema 4D Demo Project: 
+https://github.com/Rokoko/Cinema4D-Demo-Project/wiki/Rokoko-Studio-Cinema-4D-Demo-Project
